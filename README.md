@@ -1,5 +1,5 @@
 # Cryptocurrency Price Prediction Using Machine Learning Techniques
-### Nancy C. WOODS, Oluwakemi A. AKINWEHINMI, Sunday A. AMATARE
+### Oluwakemi A. AKINWEHINMI, Nancy C. WOODS, Sunday A. AMATARE
 
 ## ABSTRACT
 In this research an ensemble model with sentiment detection for foreseeing market bearings and future stand in Cryptocurrency systems was proposed. The biggest problem in the cryptocurrency market is Excessive Volatility. The prices of cryptocurrency on exchange platforms rise and fall dramatically over a short period of time. Many approaches aimed at solving this same problem are available, but most are wrought with varying inadequacies that have led to them being very terrible performers during periods of market crashes, alongside an inability to scale to predicting new coins. 
